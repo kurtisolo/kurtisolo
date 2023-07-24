@@ -2,11 +2,6 @@
 
 Photography & programming lover based in Italy.
 
-  if 'italian' in your_languages:
-      must_see = "https://bestemmiato.re"    
-  else:
-      give_up()
-
 ### What can I do?
 
 I usually work with:
@@ -33,7 +28,8 @@ My Main Skill:
 When I'm not programming, I'm probably taking photos or wasting time on Instagram.
 
 Check out dome of my (too many) IG accounts:
-- @opposable.thumb (main/personal)
-- @andreadalcol_photography
+- [@opposable.thumb](https://instagram.com/opposable.thumb) (main/personal)
+- [@andreadalcol_photography](https://instagram.com/andreadalcol_photography) 
+
 
 Thanks for stopping by!
