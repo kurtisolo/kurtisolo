@@ -23,9 +23,9 @@ My Main Skill:
 
 ### Some Of My Web Projects
 
-- **[ lasertag matchmaker ](https://racebuddies.site)**: A matchmaking web-app for arcade lasertag enthusiasts
+- **[ lasertag matchmaker ](https://laserbeam-colorado.com)**: A matchmaking web-app for arcade lasertag enthusiasts
 - **[ racebuddies ](https://racebuddies.site)**: Same but for go-karts
-- **[ paintballconnect ](https://racebuddies.site)**: Again: same concept but for Paintball players
+- **[ paintballconnect ](https://paintballconnect.site)**: Again: same concept but for Paintball players
 - **[ bestemmiato.re ](https://bestemmiato.re)**: For italian users, please avoid if you don't like swearing
 
 ### Hobbies
