@@ -18,7 +18,7 @@ My Main Skill:
 - Stubborn Troubleshooter & Fast Learner
 
 ### My biggest project yet
-- **[ Custom platform for a local shipping-company ](https://autisti.site)**: You can't access this because but I can show you a demo version if you ask
+- **[ Custom platform for a local shipping-company ](https://autisti.site)**: You can't access this anymore but I can show you a demo version if you ask
 
 ### Some Of My Web Projects
 
