@@ -8,13 +8,17 @@ I usually work with:
 
 - Python 🐍
 - Django
-- ChatGPT
-- MySql (or SQLite when it's more suitable)
+- Bulma
+- PostgreSQL
 - Javascript
 - HTML/CSS
+- ChatGPT
 
 My Main Skill: 
 - Stubborn Troubleshooter & Fast Learner
+
+### My biggest project yet
+- **[ Custom platform for a local shipping-company ](https://autisti.site)**: You can't access this because but I can show you a demo version if you ask
 
 ### Some Of My Web Projects
 
