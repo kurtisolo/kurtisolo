@@ -31,7 +31,7 @@ My Main Skill:
 
 When I'm not programming, I'm probably taking photos or wasting time on Instagram.
 
-Check out dome of my (too many) IG accounts:
+Check out some of my (too many) IG accounts:
 - [@opposable.thumb](https://instagram.com/opposable.thumb) (main/personal)
 - [@andreadalcol_photography](https://instagram.com/andreadalcol_photography) 
 
