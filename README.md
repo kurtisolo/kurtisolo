@@ -1,39 +1,60 @@
-### Hi There 👋
+## Hi, I'm Andrea 👋
 
-Photography & programming lover based in Italy.
+📍 **Based in Italy**  
+📷 **Photographer & Full-Stack Developer**
 
-### What can I do?
+---
 
-I usually work with:
+## 💼 My current stack:
 
-- Python 🐍
-- Django
-- Bulma
-- PostgreSQL
-- Javascript
-- HTML/CSS
-- ChatGPT
+### Languages:  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-My Main Skill: 
-- Stubborn Troubleshooter & Fast Learner
+### Frameworks:  
+- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
+- ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
 
-### My biggest project yet
-- **[ Custom platform for a local shipping-company ](https://autisti.site)**: You can't access this anymore but I can show you a demo version if you ask
+### Dev Tools & Environment:
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
+- ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat&logo=font-awesome&logoColor=white)
 
-### Some Of My Web Projects
-
-- **[ lasertag matchmaker ](https://laserbeam-colorado.com)**: A matchmaking web-app for arcade lasertag enthusiasts
-- **[ racebuddies ](https://racebuddies.site)**: Same but for go-karts
-- **[ paintballconnect ](https://paintballconnect.site)**: Again: same concept but for Paintball players
-- **[ bestemmiato.re ](https://bestemmiato.re)**: For italian users, please avoid if you don't like swearing
-
-### Hobbies
-
-When I'm not programming, I'm probably taking photos or wasting time on Instagram.
-
-Check out some of my (too many) IG accounts:
-- [@opposable.thumb](https://instagram.com/opposable.thumb) (main/personal)
-- [@andreadalcol_photography](https://instagram.com/andreadalcol_photography) 
+### Currently learning:
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+- ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white&color=092e20)
 
 
-Thanks for stopping by!
+---
+
+### 🛠 Core Skills
+- Stubborn Troubleshooter
+- Problem Solver
+- Quick Learner
+
+---
+
+### 🌟 Main Projects
+
+- **[Custom Platform for Local Shipping Company](https://autisti.site)**  (biggest yet)
+- **[Lasertag Matchmaker](https://laserbeam-colorado.com)**
+- **[Paintball Connect](https://paintballconnect.site)**
+- **[Bestemmiato.re](https://bestemmiato.re)** (Open-Source, for Italian users; please avoid if you're sensitive to language)
+
+---
+
+#### 📸 Other Interests
+
+- Photography 📷
+- Managing multiple Instagram accounts, like [@opposable.thumb](https://instagram.com/opposable.thumb) and [@andreadalcol_photography](https://instagram.com/andreadalcol_photography)
+
+---
+
+#### 📩 Contact Me
+
+- 📧 Email: [kurtisoloadc@gmail.com](mailto:kurtisoloadc@gmail.com)
+
+---
