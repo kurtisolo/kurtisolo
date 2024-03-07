@@ -1,6 +1,6 @@
 ## Hi, I'm Andrea 👋
 
-📍 **Based in Italy**  
+📍 **Currently in Norway**  
 📷 **Photographer & Full-Stack Developer**
 
 ---
@@ -59,8 +59,7 @@
 #### 📸 Other Interests
 
 - Photography 📷
-- Managing multiple Instagram accounts, like [@opposable.thumb](https://instagram.com/opposable.thumb) and [@andreadalcol_photography](https://instagram.com/andreadalcol_photography)
-
+- Instagram [@opposable.thumb](https://instagram.com/kurtisolo)
 ---
 
 #### 📩 Contact Me
