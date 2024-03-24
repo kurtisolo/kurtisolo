@@ -59,7 +59,7 @@
 #### 📸 Other Interests
 
 - Photography 📷
-- Instagram [@opposable.thumb](https://instagram.com/kurtisolo)
+- Instagram [@kurtisolo](https://instagram.com/kurtisolo)
 ---
 
 #### 📩 Contact Me
